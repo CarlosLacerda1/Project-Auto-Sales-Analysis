@@ -7,25 +7,15 @@ A number of important observations are stated in the dashboard, describing it in
 
 These results could be useful to gather insight for business purposes and recommendations.
 
-
 Some dax calculations were done to measure key indicators, such total and avg sales and so on. Power query was used to clean and transform the data. A filter was added to select according to city and date selected. 
 
 Auto sales analysis, 
 
- In this way, some insights would be this. i dont know, visualizations, indicators, like summary 
-
-In this way, we could deliver some interesting insights for business use. For example we could say that this result is interesting. Some insights would be for example etc etc. 
-
 Tables:
-Orders: Gathers all the orders 
-Customers: Gather all the customers 
-Products: Gather all the products 
+-Orders: All orders 
+-Customers: Gather all the customers 
+-Products: Gather all the products 
  
-
-
-
-
-
 SQL
 
 
