@@ -24,19 +24,19 @@ queries. These queries involved matters as classifying the dataset in nationalit
 
 In terms of sales:
 
-Top countries were USA, Spain and France 
-Top productlines were classic and vintage cars 
-Top dealsizes were medium and large
-Top months were October and November 
-Top days would be within the first week of month
+- Top countries were USA, Spain and France 
+- Top productlines were classic and vintage cars 
+- Top dealsizes were medium and large
+- Top months were October and November 
+- Top days would be within the first week of month
 
 Summary:
 
-Avg of sales is 256
-Avg of days since last order is  1.8 thousand
-Avg of items per order is 6.5
-Avg of price per item is 8.9 thousand 
-Percentages of canceled orders is 2%
+- Avg of sales is 256
+- Avg of days since last order is  1.8 thousand
+- Avg of items per order is 6.5
+- Avg of price per item is 8.9 thousand 
+- Percentages of canceled orders is 2%
 
 In terms of orders: 
 
