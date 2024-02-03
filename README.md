@@ -12,9 +12,9 @@ Some dax calculations were done to measure key indicators, such total and avg sa
 Auto sales analysis, 
 
 Tables:
--Orders: All orders 
--Customers: Gather all the customers 
--Products: Gather all the products 
+- Orders: All orders 
+- Customers: Gather all the customers 
+- Products: Gather all the products 
  
 SQL
 
