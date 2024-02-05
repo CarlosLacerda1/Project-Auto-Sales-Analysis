@@ -1,4 +1,4 @@
-# Project-Auto-Sales-Analysis
+# Auto Sales Analysis Project
 
 
 ## Intro
