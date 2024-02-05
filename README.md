@@ -4,26 +4,26 @@
 ### Intro
 This project aims to analyse the sales of an auto store utilizing different tools like Python, Power BI and SQL. It was created a dashboard describing the results, combining different charts and metrics. Two indicators, sales and orders, were considered. A summary of the dataset is presented below:
 
+### Analysis
+
+# Power Bi 
 A number of important observations are stated in the dashboard, describing it in terms of different factors as customers, countries etc. Visualization graphs are also presented, as pie and bar charts, sales trends, KPI indicators. etc
 
-These results could be useful to gather insight for business purposes and recommendations. 
-
-These results could be useful to gain insights for business 
+The analysis and data visualization presented could be useful to provide insights and recommendations for business purposes. 
 
 Some dax calculations were done to measure key indicators, such total and avg sales and so on. Power query was used to clean and transform the data. A filter was added to select according to city and date selected. 
 
-### Analysis
 
 Tables:
 - Orders: All orders 
 - Customers: Gather all the customers 
 - Products: Gather all the products 
  
-SQL
-
-
+# SQL 
 Using tsql language, an analysis was made through a number of 
-queries. These queries involved matters as classifying the dataset in nationality, dealsize etc. Some key observations were:
+queries. These queries involved matters as classifying the dataset in nationality, dealsize etc.
+
+#Summary
 
 In terms of sales:
 
