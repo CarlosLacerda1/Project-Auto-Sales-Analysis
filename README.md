@@ -1,12 +1,12 @@
 # Project-Auto-Sales-Analysis
 
 
-### Intro
+## Intro
 This project aims to analyse the sales of an auto store utilizing different tools like Python, Power BI and SQL. It was created a dashboard describing the results, combining different charts and metrics. Two indicators, sales and orders, were considered. A summary of the dataset is presented below:
 
-### Analysis
+## Analysis
 
-# Power Bi 
+### Power Bi 
 A number of important observations are stated in the dashboard, describing it in terms of different factors as customers, countries etc. Visualization graphs are also presented, as pie and bar charts, sales trends, KPI indicators. etc
 
 The analysis and data visualization presented could be useful to provide insights and recommendations for business purposes. 
@@ -17,13 +17,15 @@ Some dax calculations were done to measure key indicators, such total and avg sa
 Tables:
 - Orders: All orders 
 - Customers: Gather all the customers 
-- Products: Gather all the products 
+- Products: Gather all the products
+
+### Visualization
  
-# SQL 
+### SQL 
 Using tsql language, an analysis was made through a number of 
 queries. These queries involved matters as classifying the dataset in nationality, dealsize etc.
 
-#Summary
+### Summary
 
 In terms of sales:
 
@@ -43,11 +45,9 @@ Summary:
 
 In terms of orders: 
 
-
-
-
-
 Specificaly for USA, top cities would be: 
+
+## Conclusion
 
 
 
