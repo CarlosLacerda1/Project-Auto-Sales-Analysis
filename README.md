@@ -6,7 +6,9 @@ This project aims to analyse the sales of an auto store utilizing different tool
 
 A number of important observations are stated in the dashboard, describing it in terms of different factors as customers, countries etc. Visualization graphs are also presented, as pie and bar charts, sales trends, KPI indicators. etc
 
-These results could be useful to gather insight for business purposes and recommendations.
+These results could be useful to gather insight for business purposes and recommendations. 
+
+These results could be useful to gain insights for business 
 
 Some dax calculations were done to measure key indicators, such total and avg sales and so on. Power query was used to clean and transform the data. A filter was added to select according to city and date selected. 
 
