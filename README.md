@@ -23,9 +23,9 @@ Tables:
  ![print2](https://github.com/CarlosLacerda1/Project-Auto-Sales-Analysis/assets/122105130/834d3fdc-5d02-49a3-a674-886a120f3b5a)
 
 ### SQL 
-Using tsql language, an analysis was made through a number of 
-queries. These queries involved matters as classifying the dataset in nationality, dealsize etc.
 
+Using tsql language at SQL Server, an analysis was made through a number of written
+queries. These queries are able to return selected data , join tables, create indexes, views and so on. Data can be filtered via a wide set of sql commands, as WHERE, HAVING, LIKE, CASE, IN and using subqueries. TSQL (Transact-SQL) the procedural sql language of SQL Server, also possess a broad set of unique (commands), as variables, parameters, (and so on)  
 ### Summary
 
 In terms of sales:
