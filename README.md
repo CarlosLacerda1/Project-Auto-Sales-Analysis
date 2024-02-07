@@ -17,6 +17,9 @@ Tables:
 - Products: Products list
 
 ### Visualization
+
+![print1](https://github.com/CarlosLacerda1/Project-Auto-Sales-Analysis/assets/122105130/43726867-fe8f-4c4f-b488-090cfd5f9318)
+
  
 ### SQL 
 Using tsql language, an analysis was made through a number of 
