@@ -2,22 +2,19 @@
 
 
 ## Intro
-This project aims to analyse the sales of an auto store utilizing different tools like Python, Power BI and SQL. It was created a dashboard describing the results, combining different charts and metrics. Two indicators, sales and orders, were considered. A summary of the dataset is presented below:
+This project comprehends a data analysis of auto store sales utilizing different tools like Python, Power BI and SQL. The goal of this project is to provide an analysis which could be useful for business decision taking. The data was manipulated in sql and visualized in a power bi dashboard. This data comprises the sales of an auto store, gathering information as customer´s, product´s and order´s. Regading ETL, the data was extracted from Kaggle and stored at SQL Server. 
 
 ## Analysis
 
 ### Power Bi 
-A number of important observations are stated in the dashboard, describing it in terms of different factors as customers, countries etc. Visualization graphs are also presented, as pie and bar charts, sales trends, KPI indicators. etc
 
-The analysis and data visualization presented could be useful to provide insights and recommendations for business purposes. 
-
-Some dax calculations were done to measure key indicators, such total and avg sales and so on. Power query was used to clean and transform the data. A filter was added to select according to city and date selected. 
+Data can be visualized in the pbi dashboard, where it is described in terms of distinct factors as customers, countries etc. Different graph types are presented, as pie and bar charts, sales trends etc. DAX calculated KPI indicators, as average and total sales, are positioned upperly. Near them, there is a filter where data can be segmented according to selected country and order date. Two main measures were considered for the analysis, sales and orders, distributed in two separate dashboard pages. The dataset consists of 3 correlated tables, which comprehends the orders, customers and products lists. 
 
 
 Tables:
-- Orders: All orders 
-- Customers: Gather all the customers 
-- Products: Gather all the products
+- Orders: Orders list
+- Customers: Customers list
+- Products: Products list
 
 ### Visualization
  
@@ -49,6 +46,7 @@ Specificaly for USA, top cities would be:
 
 ## Conclusion
 
+The analysis described could be useful for posterior business decision taking, as for developing potencial marketing campaigns. It can be observed that, (X observation). 
 
 
                                                                                                                    
