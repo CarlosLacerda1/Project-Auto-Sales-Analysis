@@ -20,7 +20,8 @@ Tables:
 
 ![print1](https://github.com/CarlosLacerda1/Project-Auto-Sales-Analysis/assets/122105130/43726867-fe8f-4c4f-b488-090cfd5f9318)
 
- 
+ ![print2](https://github.com/CarlosLacerda1/Project-Auto-Sales-Analysis/assets/122105130/834d3fdc-5d02-49a3-a674-886a120f3b5a)
+
 ### SQL 
 Using tsql language, an analysis was made through a number of 
 queries. These queries involved matters as classifying the dataset in nationality, dealsize etc.
