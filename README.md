@@ -3,7 +3,7 @@
 (image) [
 
 ## Intro
-This project comprehends a data analysis of auto store sales utilizing different tools like Python, Power BI and SQL. The goal of this project is to provide an analysis which could be useful for business decision taking. The data was manipulated in sql and visualized in a power bi dashboard. This data comprises the sales of an auto store, gathering information as customer´s, product´s and order´s. Regading ETL, the data was extracted from Kaggle and stored at SQL Server. 
+This project comprehends a data analysis of auto store sales utilizing different tools like Python, Power BI and SQL. The goal of this project is to provide an analysis which could be useful for business decision taking. The data was manipulated in sql and visualized in a power bi dashboard. This data comprises the sales of an auto store, from 2018 to 2020, gathering information as customer´s, product´s and order´s. Regading ETL, the data was extracted from Kaggle and stored at SQL Server. 
 
 ## Analysis
 
@@ -19,13 +19,15 @@ Tables:
 
 ### Data Model
 
-Is presented below a screenshot of the data model, after being loaded into Power BI. The data shows that Orders is connect to both Customers and Products.
+Is presented below a screenshot of the data model, after being loaded into Power BI. The data shows that Orders is connect to both Customers and Products. (logical, power query, categorical, numerical) 
 
 ![data model](https://github.com/CarlosLacerda1/Project-Auto-Sales-Analysis/assets/122105130/b77663d7-8069-4ace-a5ff-4f70a907f1c3)
 
 
 
 ### Visualization
+
+(description)
 
 ![print1](https://github.com/CarlosLacerda1/Project-Auto-Sales-Analysis/assets/122105130/43726867-fe8f-4c4f-b488-090cfd5f9318)
 
@@ -37,12 +39,14 @@ Using tsql language at SQL Server, an analysis was made through a number of writ
 queries. These queries are able to return selected data , join tables, create indexes, views and so on. Data can be filtered via a wide set of sql commands, as WHERE, HAVING, LIKE, CASE, IN and using subqueries. TSQL (Transact-SQL) the procedural sql language of SQL Server, also possess a broad set of unique (commands), as variables, parameters, (and so on). 
 ### Summary
 
+(python?)
+
 Observations are presented below: (lorger insights?) 
 
 In terms of sales:
 
 - Top countries were USA, Spain and France 
-- Top productlines were classic and vintage cars 
+- Top product lines were classic and vintage cars 
 - Top dealsizes were medium and large
 - Top months were October and November 
 - Top days would be within the first week of month
@@ -66,13 +70,14 @@ In terms of orders:
 -
 -
 
-If we were to limit ourselves to USA, the results would be:
+If we were to limit ourselves to USA, the results would be, by sales:
 
--
--
--
--
--
+- Top cities are New York and San Rafael
+- Top client is Mini Gifts Distributor by far
+- Top product lines are classic, 36%, and vintage, 20%, cars, 56% in total
+- Top deal sizes are Medium, 65%, and Small, 25%, 90% in total
+- Average sales and price each are 255 and 9 thousand respectivally
+- Top months are november and august
 
 what to do next? in this way what we could do would be to see others, recommendations
 
