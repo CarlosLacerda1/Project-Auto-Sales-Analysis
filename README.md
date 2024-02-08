@@ -19,7 +19,9 @@ Tables:
 
 ### Data Model
 
-Is presented below a screenshot of the data model. The data shows that Orders is connect to both Customers and Products.
+Is presented below a screenshot of the data model, after being loaded into Power BI. The data shows that Orders is connect to both Customers and Products.
+
+![image](https://github.com/CarlosLacerda1/Project-Auto-Sales-Analysis/assets/122105130/f8891be5-63c6-4815-81c4-1ee3e09ec4e0)
 
 
 ### Visualization
