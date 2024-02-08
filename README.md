@@ -5,6 +5,9 @@
 ## Intro
 This project comprehends a data analysis of auto store sales utilizing different tools like Python, Power BI and SQL. The goal of this project is to provide an analysis which could be useful for business decision taking. The data was manipulated in sql and visualized in a power bi dashboard. This data comprises the sales of an auto store, from 2018 to 2020, gathering information as customer´s, product´s and order´s. Regading ETL, the data was extracted from Kaggle and stored at SQL Server. 
 
+## Data Source 
+https://www.kaggle.com/datasets/ddosad/auto-sales-data
+
 ## Analysis
 
 ### Power Bi 
@@ -28,6 +31,8 @@ Is presented below a screenshot of the data model, after being loaded into Power
 ### Visualization
 
 (description)
+
+The first one focuses on sales metrics and the second one in orders metrics. 
 
 ![print1](https://github.com/CarlosLacerda1/Project-Auto-Sales-Analysis/assets/122105130/43726867-fe8f-4c4f-b488-090cfd5f9318)
 
@@ -54,6 +59,14 @@ In terms of sales:
 (In this dashboard, we can see company has generated total revenue in 4 years ₹ 985M, total profit margin ₹24.7M, Profit margin% 2.5%, Sales Qty ₹2M. in 2020 company has generated total revenue of ₹ 142M by selling a total of 350K and earned a profit of ₹ 2.1M.
 In 4 years Delhi NCR is our largest market in terms of revenue with ₹ 520M and total contribution of 52.8% with total revenue but if you look at the profit margin Delhi NCR is generating only 2.3% profit margin.
 If we check the profit margin then here In 2020 Bhubaneshwar comes into the picture which is generating the highest profit margin of 10.48%. Similarly, if we can check the Profit Contribution % by Market then here Mumbai is the largest player with 23.89% of total contribution in total profit.)
+
+(1️⃣ In February 2014, we noticed a drop in sales. A potential solution would be to run promotions or advertising campaigns from January onwards, to pitch sales and ensure a stronger February.
+
+2️⃣ We discovered that customers tend to spend more on the 5th of the month. This suggests an opportunity to target our sales and marketing efforts on that specific day, leveraging customer purchasing behavior.
+
+3️⃣ Flip-flop sales have historically been lower compared to other products. An effective strategy can be to create combo promotions, such as offering discounts when customers purchase shirts, our best-selling item. We might also consider rewarding customers who buy shirts with a voucher to save on future flip-flop purchases in-store.
+
+4️⃣ The average price of flip-flops in our store is R$25.37. Taking into account that the average ticket for customers who only buy shirts is R$119.22, we can explore the opportunity to create specific combo promotions for this group of customers.)
 Summary:
 
 - Avg of sales is 256
@@ -80,21 +93,6 @@ If we were to limit ourselves to USA, the results would be, by sales:
 - Top months are november and august
 
 what to do next? in this way what we could do would be to see others, recommendations
-
-
-## Learnings
-
--
--
--
--
--
-
-(Learned about what real business data sets look like.
-Learned about how to write some major analysis queries in MySQL.
-how to connect the database’s tables to Power Bi and how to clean & modify the unwanted data in Power Query.
-Learned about some major practical DAX functions and measures.
-Learned about some major analytical visuals and reports.)
 
 ## Conclusion
 
