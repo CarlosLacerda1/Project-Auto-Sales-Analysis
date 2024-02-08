@@ -16,6 +16,10 @@ Tables:
 - Customers: Customers list
 - Products: Products list
 
+### Squema*
+
+
+
 ### Visualization
 
 ![print1](https://github.com/CarlosLacerda1/Project-Auto-Sales-Analysis/assets/122105130/43726867-fe8f-4c4f-b488-090cfd5f9318)
@@ -62,10 +66,16 @@ If we were to limit ourselves to USA, the results would be:
 -
 -
 
-what to do next? in this way what we could do would be to 
+what to do next? in this way what we could do would be to see others, recommendations
 
 
+## Learnings
 
+-
+-
+-
+-
+-
 
 ## Conclusion
 
