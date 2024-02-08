@@ -25,8 +25,10 @@ Tables:
 ### SQL 
 
 Using tsql language at SQL Server, an analysis was made through a number of written
-queries. These queries are able to return selected data , join tables, create indexes, views and so on. Data can be filtered via a wide set of sql commands, as WHERE, HAVING, LIKE, CASE, IN and using subqueries. TSQL (Transact-SQL) the procedural sql language of SQL Server, also possess a broad set of unique (commands), as variables, parameters, (and so on)  
+queries. These queries are able to return selected data , join tables, create indexes, views and so on. Data can be filtered via a wide set of sql commands, as WHERE, HAVING, LIKE, CASE, IN and using subqueries. TSQL (Transact-SQL) the procedural sql language of SQL Server, also possess a broad set of unique (commands), as variables, parameters, (and so on). 
 ### Summary
+
+Observations are presented below:
 
 In terms of sales:
 
@@ -46,7 +48,24 @@ Summary:
 
 In terms of orders: 
 
-Specificaly for USA, top cities would be: 
+-
+-
+-
+-
+-
+
+If we were to limit ourselves to USA, the results would be:
+
+-
+-
+-
+-
+-
+
+what to do next? in this way what we could do would be to 
+
+
+
 
 ## Conclusion
 
