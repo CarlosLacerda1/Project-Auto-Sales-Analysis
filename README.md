@@ -45,9 +45,14 @@ queries. These queries are able to return selected data , join tables, create in
 Observations are presented below:
 
 In terms of sales:
-- The total amount capitalized in sales was X in 2 years, with a total of Y orders containing Y items. This corresponds to an average of Z items per order and M price per item. 
-- The largest market in terms of revenue was the USA, contributing with 
-
+- The total amount capitalized in sales was X in 2 years, with a total of Y orders containing Y items. This corresponds to an average of 6.5 items per order and $8.9K price per item.
+- items since last order (canceled orders) 
+- The largest market in terms of revenue was the USA, contributing with M in sales and K in the share of total selling.
+- The most requested product line was the classic model, representing P in sales and L in selling share
+- November is the top month of the year in terms of sales and requests, totailling M in revenue (or share). 
+- The first week of the month is usually the one with most vending, (totailling) P in revenue
+- The top city is New York
+- The top client is 
 
 - Top product lines were classic and vintage cars 
 - Top dealsizes were medium and large
