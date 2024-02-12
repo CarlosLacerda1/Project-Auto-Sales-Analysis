@@ -45,7 +45,16 @@ queries. These queries are able to return selected data , join tables, create in
 Observations are presented below:
 
 In terms of sales:
+- The total amount capitalized in sales was X in 2 years, with a total of Y orders containing Y items. This corresponds to an average of Z items per order and M price per item. 
+- The largest market in terms of revenue was the USA, contributing with 
 
+
+- Top product lines were classic and vintage cars 
+- Top dealsizes were medium and large
+- Top months were October and November 
+- Top days would be within the first week of month
+
+  
 - Top countries were USA, Spain and France 
 - Top product lines were classic and vintage cars 
 - Top dealsizes were medium and large
@@ -54,7 +63,8 @@ In terms of sales:
 
 (In this dashboard, we can see company has generated total revenue in 4 years ₹ 985M, total profit margin ₹24.7M, Profit margin% 2.5%, Sales Qty ₹2M. in 2020 company has generated total revenue of ₹ 142M by selling a total of 350K and earned a profit of ₹ 2.1M.
 In 4 years Delhi NCR is our largest market in terms of revenue with ₹ 520M and total contribution of 52.8% with total revenue but if you look at the profit margin Delhi NCR is generating only 2.3% profit margin.
-If we check the profit margin then here In 2020 Bhubaneshwar comes into the picture which is generating the highest profit margin of 10.48%. Similarly, if we can check the Profit Contribution % by Market then here Mumbai is the largest player with 23.89% of total contribution in total profit.)
+If we check the profit margin then here In 2020 Bhubaneshwar comes into th
+e picture which is generating the highest profit margin of 10.48%. Similarly, if we can check the Profit Contribution % by Market then here Mumbai is the largest player with 23.89% of total contribution in total profit.)
 
 (1️⃣ In February 2014, we noticed a drop in sales. A potential solution would be to run promotions or advertising campaigns from January onwards, to pitch sales and ensure a stronger February.
 
