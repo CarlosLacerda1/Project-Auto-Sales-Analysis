@@ -51,8 +51,8 @@ In terms of sales:
 - The most requested product line was the classic model, representing P in sales and L in selling share
 - November is the top month of the year in terms of sales and requests, totailling M in revenue (or share). 
 - The first week of the month is usually the one with most vending, (totailling) P in revenue
-- The top city is New York
-- The top client is 
+- The principal city in terms of revenue is New York, amounting K in revenue and J in share
+- The top client is P, amounting H in terms of revenue and L in share
 
 - Top product lines were classic and vintage cars 
 - Top dealsizes were medium and large
