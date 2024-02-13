@@ -46,7 +46,8 @@ Observations are presented below:
 
 In terms of sales:
 - The total amount capitalized in sales was X in 2 years, with a total of Y orders containing Y items. This corresponds to an average of 6.5 items per order and $8.9K price per item.
-- items since last order (canceled orders) 
+- The average of days since last order is M.
+- The percentage of cancelled orders is 2% and X% for others.
 - The largest market in terms of revenue was the USA, contributing with M in sales and K in the share of total selling.
 - The most requested product line was the classic model, representing P in sales and L in selling percentage.
 - November is the top month of the year in terms of sales and requests, totailling M in revenue (or share). 
