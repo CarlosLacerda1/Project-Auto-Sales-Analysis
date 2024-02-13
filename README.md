@@ -46,14 +46,13 @@ Observations are presented below:
 
 In terms of sales:
 - The total amount capitalized in sales was X in 2 years, with a total of Y orders containing Y items. This corresponds to an average of 6.5 items per order and $8.9K price per item.
-- The average of days since last order is M.
-- The percentage of cancelled orders is 2% and X% for others.
-- The largest market in terms of revenue was the USA, contributing with M in sales and K in the share of total selling.
-- The most requested product line was the classic model, representing P in sales and L in selling percentage.
-- November is the top month of the year in terms of sales and requests, totailling M in revenue (or share). 
-- The first week of the month is usually the one with most vending, counting P in revenue.
-- The principal city in terms of earnings is New York, amounting K in returns and J in share.
-- The top client is P, summing H in terms of gain and L in percentage.
+- The average of days since last order is $1.8K .
+- The percentage of cancelled orders is 2.1%.
+- The largest market in terms of revenue was the USA, contributing with $237M in sales and 34% in the share of total selling, where it´s principal city in earnings is San Rafael, with $45M in revenue and 19% in share.
+- The most requested product line was the classic model, representing $432M in sales and 62% in selling percentage.
+- November is the top month of the year in terms of sales and requests, totailling $77M in revenue in the year of 2018 and 21% in share of the year. 
+- The first week of the month is usually the one with most vending, counting 30% in revenue.
+- The top client is Euro Shopping Channel, summing $62M in terms of gain and 42% in percentage.
 
 - Top product lines were classic and vintage cars 
 - Top dealsizes were medium and large
