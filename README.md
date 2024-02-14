@@ -57,7 +57,7 @@ Observations are presented below:
 
 ## Conclusion
 
-The analysis described could be useful for posterior business decision taking, as for developing potencial marketing campaigns. 
+The analysis described could be useful for posterior business decision taking, as for developing potencial marketing campaigns and strategies. 
 
 
                                                                                                                    
