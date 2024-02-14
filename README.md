@@ -30,9 +30,11 @@ Is presented below a screenshot of the data model, after being loaded into Power
 ### Visualization
  The first one display an analysis centered at sales metric while the second includes also orders. It is shown a discrimination of theses metrics according to different components Deal Size, Product Line etc, and several graphs and charts are presented. 
 
-![print1](https://github.com/CarlosLacerda1/Project-Auto-Sales-Analysis/assets/122105130/43726867-fe8f-4c4f-b488-090cfd5f9318)
+![p11](https://github.com/CarlosLacerda1/Project-Auto-Sales-Analysis/assets/122105130/a0685330-01fe-4d28-8807-32917605f01c)
 
- ![print2](https://github.com/CarlosLacerda1/Project-Auto-Sales-Analysis/assets/122105130/834d3fdc-5d02-49a3-a674-886a120f3b5a)
+
+ ![p22](https://github.com/CarlosLacerda1/Project-Auto-Sales-Analysis/assets/122105130/da58ce67-405c-4718-b63b-fb1982615cb0)
+
 
 ### SQL 
 
