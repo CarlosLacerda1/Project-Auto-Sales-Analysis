@@ -43,7 +43,7 @@ queries. These queries are able to return selected data , join tables, create in
 Observations are presented below:
 
 In terms of sales:
-- The total amount capitalized in sales was X in 2 years, with a total of Y orders containing Y items. This corresponds to an average of 6.5 items per order and $8.9K price per item.
+- The total amount capitalized in sales was $691M in 2 years, with a total of 298 orders containing 2.7K items. This corresponds to an average of 6.5 items per order and $8.9K price per item.
 - The average of days since last order is $1.8K .
 - The percentage of cancelled orders is 2.1%.
 - The largest market in terms of revenue was the USA, contributing with $237M in sales and 34% in the share of total selling, where it´s principal city in earnings is San Rafael, with $45M in revenue and 19% in share.
