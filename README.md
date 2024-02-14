@@ -40,8 +40,6 @@ Using tsql language at SQL Server, an analysis was made through a number of writ
 queries. These queries are able to return selected data , join tables, create indexes, views and so on. Data can be filtered via a wide set of sql commands, as WHERE, HAVING, LIKE, CASE, IN and using subqueries. TSQL (Transact-SQL) the procedural language utilized in SQL Server, also possess a broad set of unique features, as local variables, procedural programming and so on.  
 ### Summary
 
-(python?)
-
 Observations are presented below:
 
 In terms of sales:
@@ -57,7 +55,7 @@ In terms of sales:
 
 ## Conclusion
 
-The analysis described could be useful for posterior business decision taking, as for developing potencial marketing campaigns. It can be observed that, (X observation). 
+The analysis described could be useful for posterior business decision taking, as for developing potencial marketing campaigns. 
 
 
                                                                                                                    
