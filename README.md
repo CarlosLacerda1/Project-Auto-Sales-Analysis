@@ -50,7 +50,7 @@ Observations are presented below:
 - The most requested product line was the classic model, representing $432M in sales, 62% in selling percentage and 34% of all requests.
 - November is the top month of the year in terms of sales and requests, totailing $77M in takings in the year of 2018 and 21% in share of the year. 
 - The first week of the month is usually the one with most vending, counting 30% in revenue.
-- The top client is Euro Shopping Channel, summing $62M in terms of gain, summing 259 requests.
+- The top client is Euro Shopping Channel, summing $62M in terms of gain, counting 259 requests.
 - The leading product in selling has the code S18_3232, which is a classic model, generating $21M in income.
   
 
