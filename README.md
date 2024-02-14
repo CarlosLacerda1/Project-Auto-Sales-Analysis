@@ -10,7 +10,7 @@ https://www.kaggle.com/datasets/ddosad/auto-sales-data
 
 ### Power Bi 
 
-Data can be visualized in the pbi dashboard, where it is described in terms of distinct factors as customers, countries etc. Different graph types are presented, as pie and bar charts, sales trends etc. DAX calculated KPI indicators, as average and total sales, are positioned upperly. Near them, there is a filter where data can be segmented according to selected country and order date. Two main measures were considered for the analysis, sales and orders, distributed in two separate dashboard pages. The dataset consists of 3 correlated tables, which comprehends the orders, customers and products lists. 
+Data can be visualized in the pbi dashboard, where it is described in terms of distinct factors as customers, countries etc. Different graph types are presented, as pie and bar charts, sales trends etc. DAX calculated KPI indicators, as average and total sales, are positioned upperly. Near them, there is a filter where data can be segmented according to selected country and order date. Two main measures were considered for the analysis, sales and orders, distributed in two dashboard pages. The dataset consists of 3 correlated tables, which comprehends the orders, customers and products lists. 
 
 
 Tables:
@@ -28,7 +28,7 @@ Is presented below a screenshot of the data model, after being loaded into Power
 
 
 ### Visualization
- The first one display an analysis centered at sales metric while the second at orders. It is shown a discrimination of theses metrics according to different components Deal Size, Product Line etc, and several graphs and charts are presented. 
+ The first one display an analysis centered at sales metric while the second includes also orders. It is shown a discrimination of theses metrics according to different components Deal Size, Product Line etc, and several graphs and charts are presented. 
 
 ![print1](https://github.com/CarlosLacerda1/Project-Auto-Sales-Analysis/assets/122105130/43726867-fe8f-4c4f-b488-090cfd5f9318)
 
@@ -46,11 +46,14 @@ In terms of sales:
 - The total amount capitalized in sales was $691M in 2 years, with a total of 298 orders containing 2.7K items. This corresponds to an average of 6.5 items per order and $8.9K price per item.
 - The average of days since last order is $1.8K .
 - The percentage of cancelled orders is 2.1%.
-- The largest market in terms of revenue was the USA, contributing with $237M in sales and 34% in the share of total selling, where it´s principal city in earnings is San Rafael, with $45M in revenue and 19% in share.
+- The largest market in terms of revenue was the USA, contributing with $237M in sales, 34% in the share of total selling and, where it´s principal city in earnings is San Rafael, with $45M in revenue and 19% in share.
+- The medium size was the most substancial dealsize in terms of sales, totaling $432M in returns, 62% in selling share and 49% of items sold.
 - The most requested product line was the classic model, representing $432M in sales and 62% in selling percentage.
-- November is the top month of the year in terms of sales and requests, totailling $77M in revenue in the year of 2018 and 21% in share of the year. 
+- November is the top month of the year in terms of sales and requests, totailing $77M in revenue in the year of 2018 and 21% in share of the year. 
 - The first week of the month is usually the one with most vending, counting 30% in revenue.
 - The top client is Euro Shopping Channel, summing $62M in terms of gain and 42% in percentage.
+- Product code top
+- 
 
 
 ## Conclusion
