@@ -10,7 +10,7 @@ https://www.kaggle.com/datasets/ddosad/auto-sales-data
 
 ### Power Bi 
 
-Data can be visualized in the pbi dashboard, where it is described in terms of distinct factors as customers, countries etc. Different graph types are presented, as pie and bar charts, sales trends etc. DAX calculated KPI indicators, as average and total sales, are positioned upperly. Near them, there is a filter where data can be segmented according to selected country and order date. Two main measures were considered for the analysis, sales and orders, distributed in two dashboard pages. The dataset consists of 3 correlated tables, which comprehends the orders, customers and products lists. Each order contains a list of requests, each request including a single different product demanded. 
+Data can be visualized in the Power BI dashboard, where it is described in terms of distinct factors such as customers and countries. Different graph types are presented, such as pie and bar charts, as well as sales trends. DAX calculated KPI indicators, such as average and total sales, are positioned above. Next to them, there is a filter where data can be segmented according to selected country and order date. Two main measures were considered for the analysis: sales and orders, distributed across two dashboard pages. The dataset consists of three correlated tables, which encompass the orders, customers, and products lists. Each order contains a list of requests, with each request including a different single product demanded.
 
 
 Tables:
@@ -20,7 +20,7 @@ Tables:
 
 ### Data Model
 
-Is presented below a screenshot of the data model, after being loaded into Power BI and transformed in Power Query. The data shows that Orders is connected in a logical relationship to both Customers and Products. It contains both categorical and numeric data.
+Below is a screenshot of the data model after being loaded into Power BI and transformed in Power Query. The data indicates that Orders are connected in a logical relationship to both Customers and Products. It contains both categorical and numeric data.
 
 
 ![data model](https://github.com/CarlosLacerda1/Project-Auto-Sales-Analysis/assets/122105130/b77663d7-8069-4ace-a5ff-4f70a907f1c3)
@@ -28,7 +28,7 @@ Is presented below a screenshot of the data model, after being loaded into Power
 
 
 ### Visualization
- The first one display an analysis centered at sales metric while the second includes also orders. It is shown a discrimination of theses metrics according to different components Deal Size, Product Line etc, and several graphs and charts are presented. 
+ The first one displays an analysis centered on the sales metric, while the second one also includes orders. It shows a breakdown of these metrics according to different components such as Deal Size, Product Line, etc., and presents several graphs and charts.
 
 ![p11](https://github.com/CarlosLacerda1/Project-Auto-Sales-Analysis/assets/122105130/a0685330-01fe-4d28-8807-32917605f01c)
 
@@ -38,28 +38,26 @@ Is presented below a screenshot of the data model, after being loaded into Power
 
 ### SQL 
 
-Using tsql language at SQL Server, an analysis was made through a number of written
-queries. These queries are able to return selected data , join tables, create indexes, views and so on. Data can be filtered via a wide set of sql commands, as WHERE, HAVING, LIKE, CASE, IN and using subqueries. TSQL (Transact-SQL) the procedural language utilized in SQL Server, also possess a broad set of unique features, as local variables, procedural programming and so on.  
+Using the T-SQL language in SQL Server, an analysis was conducted through a series of written queries. These queries are capable of returning selected data, joining tables, creating indexes, views, and so on. Data can be filtered using a wide range of SQL commands, such as WHERE, HAVING, LIKE, CASE, IN, and by employing subqueries. T-SQL (Transact-SQL), the procedural language utilized in SQL Server, also possesses a broad set of unique features, including local variables, procedural programming, and so on.  
 ### Summary
 
 Observations are presented below:
 
-- The total amount capitalized in sales was $691M in 2 years, with a total of 298 orders containing 2.7K requests. This corresponds to an average of 6.5 requests per order and $8.9K price per request.
-- The average of days since last order is 1.8K .
+- The total amount capitalized in sales was $691M over 2 years, with a total of 298 orders containing 2.7K requests. This corresponds to an average of 6.5 requests per order and $8.9K price per request.
+- The average number of days since the last order is 1.8K.
 - The percentage of cancelled orders is 2.1%.
-- The largest market in terms of revenue was the USA, contributing with $237M in sales and 34% in the share of total selling, where it´s principal city in earnings is San Rafael, with $45M in revenue and 19% in share.
-- The medium size was the most substancial dealsize in terms of sales, totaling $432M in returns, 62% in selling share and 49% of total requests.
-- The most requested product line was the classic model, representing $432M in sales, 62% in selling percentage and 34% of all requests.
-- November is the top month of the year in terms of sales and requests, totailing $77M in takings in the year of 2018 and 21% in share of the year. 
-- The first week of the month is usually the one with most vending, counting 30% in revenue.
-- The top client is Euro Shopping Channel, summing $62M in terms of gain, counting 259 requests.
-- The leading product in selling has the code S18_3232, which is a classic model, generating $21M in income.
-  
+- The largest market in terms of revenue was the USA, contributing $237M in sales and comprising 34% of the total share of sales. Its principal city in earnings is San Rafael, with $45M in revenue and a 19% share.
+- The medium size was the most substantial deal size in terms of sales, totaling $432M in returns, comprising 62% of the selling share and accounting for 49% of total requests.
+- The most requested product line was the classic model, representing $432M in sales, comprising 62% of the selling percentage, and accounting for 34% of all requests.
+November is the top month of the year in terms of sales and requests, totaling $77M in revenue for the year 2018 and comprising 21% of the share for the year.
+- The first week of the month is usually the one with the most vending, accounting for 30% of revenue.
+- The top client is Euro Shopping Channel, with a total of $62M in gain from 259 requests.
+- The leading product in sales has the code S18_3232, which is a classic model, generating $21M in income.
 
 
 ## Conclusion
 
-The analysis described could be useful for posterior business decision taking, as for developing potencial marketing campaigns and strategies. 
+The described analysis could be useful for subsequent business decision-making, such as developing potential marketing campaigns and strategies.
 
 
                                                                                                                    
