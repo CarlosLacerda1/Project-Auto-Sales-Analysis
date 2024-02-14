@@ -45,7 +45,7 @@ Observations are presented below:
 - The total amount capitalized in sales was $691M in 2 years, with a total of 298 orders containing 2.7K requests. This corresponds to an average of 6.5 requests per order and $8.9K price per request.
 - The average of days since last order is 1.8K .
 - The percentage of cancelled orders is 2.1%.
-- The largest market in terms of revenue was the USA, contributing with $237M in sales, 34% in the share of total selling and, where it´s principal city in earnings is San Rafael, with $45M in revenue and 19% in share.
+- The largest market in terms of revenue was the USA, contributing with $237M in sales and 34% in the share of total selling, where it´s principal city in earnings is San Rafael, with $45M in revenue and 19% in share.
 - The medium size was the most substancial dealsize in terms of sales, totaling $432M in returns, 62% in selling share and 49% of total requests.
 - The most requested product line was the classic model, representing $432M in sales, 62% in selling percentage and 34% of all requests.
 - November is the top month of the year in terms of sales and requests, totailing $77M in takings in the year of 2018 and 21% in share of the year. 
