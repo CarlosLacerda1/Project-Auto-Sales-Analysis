@@ -30,10 +30,9 @@ Below is a screenshot of the data model after being loaded into Power BI and tra
 ### Visualization
  The first one displays an analysis centered on the sales metric, while the second one also includes orders. It shows a breakdown of these metrics according to different components such as Deal Size, Product Line, etc., and presents several graphs and charts.
 
-![p11](https://github.com/CarlosLacerda1/Project-Auto-Sales-Analysis/assets/122105130/a0685330-01fe-4d28-8807-32917605f01c)
+![p1p1](https://github.com/CarlosLacerda1/Project-Auto-Sales-Analysis/assets/122105130/0843eaa4-e612-406d-add4-dba1f3cbb2d5)
 
-
- ![p22](https://github.com/CarlosLacerda1/Project-Auto-Sales-Analysis/assets/122105130/da58ce67-405c-4718-b63b-fb1982615cb0)
+![p2p2](https://github.com/CarlosLacerda1/Project-Auto-Sales-Analysis/assets/122105130/aeedf796-889c-458a-9cd5-3a49c80ea7fc)
 
 
 ### SQL 
