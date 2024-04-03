@@ -1,7 +1,7 @@
 # Auto Sales Analysis Project
 
 ## Intro
-This project comprehends a data analysis of auto store sales utilizing different tools like Python, Power BI and SQL. The goal of this project is to provide an analysis which could be useful for business decision taking. The data was manipulated in sql and visualized in a power bi dashboard. This data comprises the sales of an auto store, from 2018 to 2020, gathering information as customer´s, product´s and order´s. Regading ETL, the data was extracted from Kaggle and stored at SQL Server. 
+This project comprehends a data analysis of auto store sales utilizing different tools like Power BI and SQL. The goal of this project is to provide an analysis which could be useful for business decision taking. The data was manipulated in sql and visualized in a power bi dashboard. This data comprises the sales of an auto store, from 2018 to 2020, gathering information as customer´s, product´s and order´s. Regading ETL, the data was extracted from Kaggle and stored at SQL Server. 
 
 ## Data Source 
 https://www.kaggle.com/datasets/ddosad/auto-sales-data
